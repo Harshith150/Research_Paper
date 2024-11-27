@@ -5,7 +5,7 @@ For model deployment, please visit: [Genetic Model Deployment on Render](https:/
 ### Sample Input:
 DNA Sequence : `"GCTGAACTT"`
 
-_(Constraint: The provided DNA sequence must have a length of exactly **8 characters**.)_
+_(Constraint: The provided DNA sequence must have a length of exactly **9 characters**.)_
 
 ### Sample Output:
 - **DNA Sequence**: GCTGAACTT
